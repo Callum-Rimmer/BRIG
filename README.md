@@ -9,7 +9,7 @@ You can download the latest version of BLAST from the official NCBI website: htt
 
 For **Windows** users, download the file ending with `win64.exe`. This is a bundled installer for windows which will install BLAST for you.
 
-For **macOS** users, download the file ending with `.dmg`. You have to do some more legwork to install BLAST on macOS.
+For **macOS** users, download the file ending with `.dmg`. This is a bundled installer for macOS which should install BLAST for you.
 
 ## The problem with BRIG
 
