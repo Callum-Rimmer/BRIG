@@ -24,5 +24,5 @@ There are two main scenarios for dealing with multi-fasta files:
 
 This is the easiest of the two scenarios. The easiest way of running BRIG with a multiple-contig genome is to simply remove all header lines in the fasta file after the inital header line. Use the following command to do this:
 
-`head -n 1 | grep -v ">" genome.fasta > genome-without-headers.fasta`
+```head -n 1 | grep -v ">" genome.fasta > genome-without-headers.fasta```
 
